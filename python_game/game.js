@@ -23,24 +23,6 @@ const roleScenarios = {
         finalChallenge: {
             title: 'Crisis Resolution: Untangle the Class Rosters!',
             description: 'All your student data is jumbled together! Create an algorithm to separate students into their correct class rosters.',
-            
-            shit: `CS101 - Computer Science:
-1. Kai - Grade: 95
-2. Alex - Grade: 92
-
-MATH200 - Calculus:
-1. Zara - Grade: 87
-
-PHYS150 - Physics:
-(No students)
-
-CS101 Average: 93.5
-MATH200 Average: 87.0
-
-Total students in CS101: 2
-
-✅ Crisis resolved! All 3 students organized!`,
-            
             artifact: {
                 title: '📚 Professor Scatterbrain\'s Organized Class Rosters',
                 content: `
